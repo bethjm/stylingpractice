@@ -1,0 +1,104 @@
+body {
+    background-color: #EAEAEA;
+}
+
+#book{
+    z-index: -1;
+    position: absolute;
+    width: 70%;
+    height: 90%;
+    left: 35%;
+}
+
+#squiggle{
+    z-index: -2;
+    position: absolute;
+    width: 40%;
+    height: 60%;
+    left: 25%;
+    top: 30%;
+    transform: scaleX(1);
+    transform: rotate(20deg);
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2%;
+    font-size: 18px;
+    flex-wrap: wrap;
+}
+
+.left-side-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 20%;
+    margin-left: 5%;
+}
+
+.left-side-nav p{
+    margin-right: 15%;
+}
+
+.right-side-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 20%;
+    margin-right: 5%;
+}
+
+.right-side-nav p{
+    margin-right: 15%;
+}
+
+#overview {
+    border: 2px solid;
+    padding: 5%;
+    border-radius: 30px;
+    margin-top: 0%;
+}
+
+#beautiful-books{
+    width: 20%;
+    font-size: 60px;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+#hr {
+    width: 9%;
+    margin-left: 10%;
+    border-top: 1px solid;
+}
+
+#cost{
+    font-size: 50px;
+    margin-left: 10%;
+    color: #D77F69;
+    margin-top: 3%;
+}
+
+#twelve{
+    font-size: 80px;
+}
+
+.bottom-text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 50%;
+    margin-left: 10%;
+}
+
+.about{
+    width: 40%;
+}
+
+#about-list-items{
+    margin-left: -10%;
+}
