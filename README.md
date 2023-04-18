@@ -1,1 +1,1 @@
-# stylingpractice
+As a way to improve my styling skills I am challenging myself to recreate a mock up everyday. In the folders you will find a photo of the mock up I am trying to recreate as well as the recreated mock up.
