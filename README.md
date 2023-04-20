@@ -1,4 +1,4 @@
-Welcome to my web design project 👩🏼‍💻! I am completing a challenge every day; designing websites, web elements, and more. I use webpage mock ups found on Dribble and bring them to life in the browser. 
+Welcome to my web design project 👩🏼‍💻! I am completing a challenge every day. I design websites, web elements, and more based on mock ups found on Dribble. I have really enjoyed the process of bringing them to life in the browswer 🥳
 
 In the folder 📂 you will find...
 📷 A photo of the mock up titled: "mock-up-to-recreate" 
