@@ -12,3 +12,5 @@ In the folder 📂 you will find...
 
 The folders are titled with that date 🗓️ that I designed the webpage. Enjoy watching how my skills improve!
 
+~ Beth
+
