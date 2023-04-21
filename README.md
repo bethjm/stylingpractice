@@ -10,7 +10,7 @@ In the folder 📂 you will find...
 
 🎞️ As well as the css and html files I used for styling
 
-The folders are titled with that date 🗓️ that I designed the webpage. 
+The folders are titled with the date 🗓️ that I designed the webpage. 
 
 Some days I use this challenge to practice my positioning skills while other days I am trying to match the design down to the pixel.
 
