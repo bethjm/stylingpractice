@@ -26,6 +26,11 @@ body {
     padding-bottom: 5%;
 }
 
+.page-content {
+    display: flex;
+    flex-direction: column;
+}
+
 .top-bar {
     display: flex;
     flex-direction: row;
@@ -47,11 +52,35 @@ body {
     display: flex;
     justify-content: space-between;
     width: 40%;
+    margin-right: 5%;
 }
 
 #contact {
     border: 2px solid black;
-    /* width: 10%;
-    padding-top: 2%;
-    padding-bottom: 2%; */
+}
+
+.main-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 3%;
+
+}
+
+.main-content-left-side {
+    font-size: 1.5em;
+    width: 25%;
+    margin-left: 5%;
+}
+
+.empty {
+    width: 20%;
+}
+
+.main-content-right-side {
+    width: 30%;
+    margin-right: 5%;
+    display: flex;
+    flex-direction: column;
+
 }
